@@ -1,0 +1,9 @@
+so about sum a b
+    literally number1 itu a
+    literally number2 itu b
+
+    literally sum itu a + b
+    spill "sum: " + sum
+thats it sih
+
+call sum 4 5
